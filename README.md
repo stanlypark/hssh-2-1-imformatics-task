@@ -1,4 +1,4 @@
-# Vpython을 통한 이중슬릿에 의한 간섭 모의실험
+# Vpython을 통한 이중슬릿 간섭 모의실험
 #### Visual Implementation of Dual Slit Interference Experiment Using Vpython
 2212 박영진, 2219 이현수의 2019 2학년 1학기 정보 수행평가입니다.
 
