@@ -1,5 +1,7 @@
 from vpython import *
 #GlowScript 2.7 VPython
+#Vpython에서 실행해 주세요.
+
 scdis = 5
 scdistance = 1
 slitdis = 10
@@ -33,7 +35,7 @@ while(True):
     ev = scene.waitfor('click keydown') 
     if ev.event == 'click':
         print_options(clear=True)
-        print('설정 완료. 클릭해 주세요.')
+        #print('설정 완료. 클릭해 주세요.')
         break
     if ev.event == 'keydown':
         if ev.keyCode == 38:
