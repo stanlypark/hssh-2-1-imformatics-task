@@ -1,7 +1,7 @@
-#glowscript 에서 실행해 주세요.
-
 from vpython import *
 #GlowScript 2.7 VPython
+#Vpython 에서 실행해 주세요.
+
 print('슬릿사이 간격 n배 설정.')
 slitdistance = 1
 scdistance = 1
