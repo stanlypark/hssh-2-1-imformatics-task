@@ -1,6 +1,6 @@
 # Vpython을 통한 이중슬릿 간섭 모의실험
 #### Visual Implementation of Dual Slit Interference Experiment Using Vpython
-2212 박영진, 2219 이현수의 2019 2학년 1학기 정보 수행평가입니다.
+2019학년도 1학기 한성과학고등학교 정보과학 수행평가로 진행한 프로젝트입니다.
 
 ![main](https://user-images.githubusercontent.com/40256530/59174213-7b7cc400-8b8b-11e9-97dc-85d94fb1b48a.JPG)
 
